@@ -1,0 +1,23 @@
+dc:37:14 Apple
+b8:27:eb Raspberry Pi Foundation
+18:b4:30 Nest Labs.
+e0:5f:45 Apple
+14:10:9f Apple
+c4:98:5c Hui Zhou Gaoshengda Technology
+1c:f2:9a Google
+f0:27:2d Amazon Technologies.
+7c:11:be Apple
+80:00:6e Apple
+80:e6:50 Apple
+8c:86:1e Apple
+00:ab:48 eero inc.
+00:0d:4b Roku
+60:03:08 Apple
+c8:69:cd Apple
+80:be:05 Apple
+2c:aa:8e Wyze Labs
+b4:43:0d Broadlink Pty Ltd
+34:ea:34 HangZhou Gubei Electronics Technology
+00:17:88 Philips Lighting BV
+a4:da:22 IEEE Registration Authority
+cc:6d:a0 Roku

@@ -1,0 +1,39 @@
+body{
+	background:#000;
+	color:#0f0;
+	text-align:center;
+}
+a {
+	color:#0f0;
+}
+
+div {
+	float: center;
+	width:60%;
+	border: solid black 1px;
+	padding: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.Up {
+	border: solid green 1px;
+	background:#020;
+	color:#0f0;
+	text-decoration: none;
+}
+.Down {
+	border: solid red 1px;
+	background:#200;
+	color:#f00;
+	text-decoration: none;
+}
+div .host_name_div{
+	font-weight: bold;
+	font-size: 14px;
+	height: 40px !important;
+	padding: 0px;
+	padding-top: 5px;
+	margin: 0px;
+	border: solid 1px blue;
+	border: none;
+}

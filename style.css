@@ -1,0 +1,74 @@
+body{
+	background:#151515;
+	color:#ddd;
+	max-width: 100%;
+	overflow-x: hidden;
+}
+.chartjs-render-monitor{
+	height:97px !important;
+}
+a {
+	color:#fff;
+}
+div {
+	text-align: left;
+	float: left;
+	border: solid black 1px;
+	width: 157px;
+	padding: 10px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin: 6.2px;
+}
+.icon_spacer_div{
+	height: 32px;
+	width: 32px;
+	padding: 0px;
+	margin: 0px;
+	border: solid 1px blue;
+	border: none;
+}
+.host_name_div{
+	font-weight: bold;
+	font-size: 14px !important;
+	height: 40px !important;
+	padding: 0px;
+	padding-top: 5px;
+	margin: 0px;
+	border: solid 1px blue;
+	border:none;
+}
+.host_vendor_div{
+	height:40px;
+	overflow:hidden;
+	padding: 0px;
+	margin: 0px;
+	border: solid 1px blue;
+	border: none;
+}
+#top_div{
+	padding-top: 5px;
+	border: solid #aaa 1px;
+	background: #222;
+	height: 157px;
+	font-size 14px !important;
+}
+.Up {
+	border: solid green 1px;
+	background:#020;
+}
+.Up a{
+	color:#0f0;
+	text-decoration: none;
+}
+.Down {
+	border: solid red 1px;
+	background:#200;
+}
+.Down a{
+	color:#f00;
+	text-decoration: none;
+}
+.icon{
+	height: 32px;
+}
