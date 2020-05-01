@@ -17,6 +17,7 @@ Then give the scripts execute permissions with
 	
 	chmod +x scan_devices.py
 and
+
 	chmod +x build_html.py
 
 Then run scan_devices.py if if it runs successfully, you should see index.html and a bunch of html files in the hosts folder.
