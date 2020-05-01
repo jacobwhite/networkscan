@@ -5,8 +5,8 @@ It will graph ping times for devices, scan for a few common open ports and look 
 I use it on a Raspberry Pi.
 
 ## Screenshots
-![list view](./list.png)
-![detail view](./detail.png)
+![list view](./list.png =400x)
+![detail view](./detail.png =400x)
 
 ## Setup
 Set up a webserver on your raspberry pi and create a folder in the web root folder called "networkscan". On the Raspberry Pi it will be '/var/www/html/networkscan/'
